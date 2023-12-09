@@ -1,6 +1,7 @@
+![I'm road to be  a MERN stack web Developer](https://i.pinimg.com/originals/8e/ef/ff/8eefff39d1e4ea997352ec8450efb878.jpg)
 ### Hi there 👋, I'm Jafar Uddin Dipu
 #### I'm road to be  a MERN stack web Developer
-![I'm road to be  a MERN stack web Developer](https://i.pinimg.com/originals/8e/ef/ff/8eefff39d1e4ea997352ec8450efb878.jpg)
+
 
 I'm a Diploma in Computer Engineer.
 
