@@ -16,7 +16,7 @@ Skills:  HTML / CSS/JavaScript/React/Node.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipujafar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipujafar&show_icons=true)  
+![Current Stats](https://github-readme-stats.vercel.app/api?username=dipujafar&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=dipujafar)  
 <h3 align="left">Languages and Tools:</h3>
