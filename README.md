@@ -1,4 +1,4 @@
-![I'm road to be  a MERN stack web Developer](https://i.ibb.co/QvD7DLJ/Screenshot-2024-02-13-222841.png)
+![I'm road to be  a MERN stack web Developer](https://i.ibb.co/smrcHg0/banner.png)
 ### Hi there 👋, I'm Jafar Uddin Dipu
 #### I'm road to be  a MERN stack web Developer
 
