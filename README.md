@@ -5,7 +5,7 @@
 
 I'm a Diploma in Computer Engineer.
 
-Skills:  HTML / CSS/JavaScript/TypeScript/React/Node.js
+Skills:  HTML / CSS/JavaScript/TypeScript/React/Next.js/Node.js
 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on github 
