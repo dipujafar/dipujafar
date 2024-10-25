@@ -3,7 +3,7 @@
 #### I'm road to be  a MERN stack web Developer
 
 
-I'm a Diploma in Computer Engineer.
+I'm a MERN stack Web Developer.
 
 Skills:  HTML / CSS/JavaScript/TypeScript/React/Next.js/Node.js/Express.js/MongoDB
 
